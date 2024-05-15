@@ -7,6 +7,7 @@
     </head>
     <body>
         <h1>Quienes somos</h1>
+        <%@include file="menu.jsp"%>
         <h2>Que es lorem ipsum</h2>
         <p>Lorem Ipsum is simply dummy text of the printing and typesetting 
             industry. Lorem Ipsum has been the industry's standard dummy text 
